@@ -12,6 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// This is a forked copy of the demo that is under the control of Darshan
+// Dillon.
+
 package main
 
 import (
